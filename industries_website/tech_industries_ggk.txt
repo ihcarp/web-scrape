@@ -1,0 +1,186 @@
+
+https://ggktech.com/industries/
+Technology
+Organization
+
+https://ggktech.com/industries/healthcare/
+Technology
+Organization
+
+https://ggktech.com/industries/healthcare/payers/
+Applications
+Analytics
+Technology
+User Experience
+Iot
+
+https://ggktech.com/industries/healthcare/providers/
+User Experience
+Applications
+Iot
+Operations
+
+https://ggktech.com/industries/healthcare/life-sciences/
+Applications
+Analytics
+Technology
+User Experience
+Software
+Organization
+Iot
+
+https://ggktech.com/industries/healthcare/healthcare-technology/
+Applications
+User Experience
+Development
+Application Development
+Agile
+Analytics
+Technology
+Product Development
+Iot
+
+https://ggktech.com/industries/financial-services/
+cybersecurity
+Management
+Internet
+Artificial Intelligence
+Reporting
+Technology
+Data Analytics
+Communication
+Organization
+Business Intelligence
+Iot
+Applications
+Support
+APIs
+API
+Security
+AI
+Big Data
+User Experience
+Analytics
+Programming
+
+https://ggktech.com/industries/transportation-logistics/
+Applications
+Supply Chain
+Operations
+Agile
+Management
+Security
+Mobile Applications
+User Experience
+Design
+Business Intelligence
+Analytics
+Technology
+Iot
+
+https://ggktech.com/industries/energyandutilities/
+Supply Chain
+Applications
+Support
+Content Management
+Development
+Management
+IT Solutions
+AI
+User Experience
+Design
+Information Systems
+Reporting
+Analytics
+Technology
+Implementation
+Communication
+Data Analytics
+Iot
+Operations
+
+https://ggktech.com/industries/retail/
+Applications
+Supply Chain
+Operations
+Content Management
+Support
+Development
+Management
+Networks
+Security
+Code
+User Experience
+Software
+Analytics
+Technology
+Iot
+Communication
+Business Intelligence
+
+https://ggktech.com/industries/manufacturing/
+Supply Chain
+Applications
+Development
+Management
+Cloud Services
+User Experience
+Software
+Design
+Reporting
+Analytics
+Technology
+Implementation
+Data Analytics
+Product Development
+Iot
+Operations
+
+https://ggktech.com/industries/travel-hospitality/
+Applications
+Operations
+Content Management
+Management
+Big Data
+User Experience
+Design
+Information Systems
+Analytics
+Technology
+Implementation
+Iot
+
+https://ggktech.com/industries/media-and-entertainment/
+Supply Chain
+Applications
+Web Analytics
+Operations
+Support
+Data Science
+Management
+User Experience
+Design
+Reporting
+Analytics
+Technology
+Implementation
+Data Analytics
+Iot
+
+https://ggktech.com/industries/telecom/
+Applications
+Support
+Messaging
+Management
+API
+Networks
+Tablets
+Business Analytics
+User Experience
+Testing
+Analytics
+Technology
+Iot
+Communication
+Organization
+Business Intelligence

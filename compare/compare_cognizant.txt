@@ -1,0 +1,95 @@
+Common technologies between ggk and cognizant:
+
+Methodology
+Machine Learning
+RPA
+Design
+APIs
+Data Science
+Database
+AI
+Communication
+Flexibility
+Servers
+Application Development
+Virtualization
+Code
+Web Applications
+Architecture
+Implementation
+Security
+Reporting
+Software Development
+Big Data
+Operations
+Agile
+Computer
+Software
+Organization
+Data Modeling
+Product Development
+Iot
+API
+Tools
+Usability
+Analytics
+Robotic Process Automation
+Testing
+Technology
+Mobile Applications
+Continuous Integration
+Applications
+Management
+Development
+Storage
+Support
+Customer Support
+User Experience
+
+
+Technologies on cognizant but not ggk:
+Content Management
+Amazon Web Services
+SaaS
+Internet Of Things
+Product Management
+Programming
+Content Strategy
+Artificial Intelligence
+Agile Development
+AWS
+Networks
+Cloud Platforms
+Data Lake
+Data Analytics
+Business Analytics
+Teamwork
+Information Architecture
+Cloud Services
+Internet
+Analytical
+Coding
+Product Design
+Developer
+IT Solutions
+Supply Chain
+Leadership
+Software Engineering
+Blockchain
+Data Mining
+Help Desk
+Information Systems
+Metrics
+PaaS
+cybersecurity
+IT Security
+
+
+Technologies on ggk but not cognizant:
+Hardware
+Business Intelligence
+Configuration Management
+Configuration
+Project Management
+Tablets
+Continuous Deployment

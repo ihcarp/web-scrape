@@ -1,0 +1,857 @@
+
+https://www.accenture.com/in-en/artificial-intelligence-index
+Artificial Intelligence
+Cognitive Robotics
+Metrics
+Testing
+Organization
+Applications
+Analytics
+Problem Solving
+Machine Learning
+AI
+Management
+Technology
+RPA
+Support
+Software
+Robotic Process Automation
+
+https://www.accenture.com/in-en/insights/blockchain-index
+Artificial Intelligence
+Management
+Technology
+Supply Chain
+Blockchain
+Design
+Organization
+Applications
+Iot
+Operations
+
+https://www.accenture.com/in-en/cloud-index
+Cloud Services
+Architecture
+Leadership
+Technology
+Management
+Security
+Design
+SaaS
+Organization
+Software
+Applications
+Analytics
+Implementation
+Operations
+
+https://www.accenture.com/in-en/insights/cyber-security-index
+Management
+Security
+Technology
+Hardware
+cybersecurity
+Testing
+Organization
+
+https://www.accenture.com/in-en/future-workforce-index
+Artificial Intelligence
+Management
+Leadership
+Technology
+Supply Chain
+Development
+Organization
+Analytics
+
+https://www.accenture.com/in-en/insights/industry-x-0-index
+Artificial Intelligence
+Design
+Code
+Organization
+Applications
+Product Design
+AI
+Management
+Technology
+Internet
+Hardware
+Internet Of Things
+Support
+Iot
+Software
+Operations
+
+https://www.accenture.com/in-en/internet-of-things-index
+Internet Of Things
+Technology
+Internet
+
+https://www.accenture.com/in-en/insights/living-business-index
+Analytics
+Technology
+
+https://www.accenture.com/in-en/auto-industrial-index
+Communication
+Management
+Technology
+Internet
+Development
+Internet Of Things
+Support
+Iot
+Software
+
+https://www.accenture.com/in-en/banking-index
+Development
+Design
+Organization
+API
+AI
+Management
+Security
+Technology
+Networks
+Blockchain
+APIs
+Operations
+
+https://www.accenture.com/in-en/capital-markets-index
+Management
+Security
+Technology
+Blockchain
+Design
+cybersecurity
+Organization
+Content Management
+API
+Robotic Process Automation
+
+https://www.accenture.com/in-en/chemicals-index
+AI
+Artificial Intelligence
+Security
+Architecture
+Technology
+Communication
+Supply Chain
+Blockchain
+cybersecurity
+Organization
+Applications
+Implementation
+Operations
+
+https://www.accenture.com/in-en/communications-media-index
+Communication
+Security
+Leadership
+Networks
+Internet
+Blockchain
+Design
+Analytics
+Iot
+Operations
+
+https://www.accenture.com/in-en/consumer-goods-and-services-index
+Blockchain
+Technology
+Support
+Design
+
+https://www.accenture.com/in-en/energy-index
+Management
+Technology
+Emerging Technologies
+Supply Chain
+Blockchain
+Operations
+
+https://www.accenture.com/in-en/health-industry-index
+Management
+Technology
+Internet
+Networks
+Internet Of Things
+Organization
+Tools
+Operations
+
+https://www.accenture.com/in-en/electronics-and-high-tech-index
+Communication
+Design
+AI
+Leadership
+Technology
+Supply Chain
+Blockchain
+Internet
+Internet Of Things
+Training
+Iot
+Software
+Operations
+
+https://www.accenture.com/in-en/insurance-index
+AI
+Management
+Artificial Intelligence
+Leadership
+Technology
+Internet
+Development
+Design
+Blockchain
+Internet Of Things
+Implementation
+Support
+Organization
+Software
+Operations
+
+https://www.accenture.com/in-en/lifesciences-index
+AI
+Communication
+Leadership
+Technology
+Supply Chain
+Blockchain
+Development
+Organization
+Iot
+Operations
+
+https://www.accenture.com/in-en/natural-resources-index
+Artificial Intelligence
+Reporting
+Organization
+Applications
+Analytics
+Architecture
+AI
+Security
+Technology
+Supply Chain
+Internet
+Blockchain
+cybersecurity
+Internet Of Things
+Operations
+
+https://www.accenture.com/in-en/ps-industry-index
+User Experience
+Metrics
+Development
+Design
+Operations
+Organization
+Analytics
+Management
+Security
+Leadership
+Technology
+Support
+Agile
+Data Analytics
+
+https://www.accenture.com/in-en/retail-index
+AI
+Artificial Intelligence
+Analytics
+Leadership
+Technology
+Supply Chain
+Tools
+
+https://www.accenture.com/in-en/software-and-platforms-index
+User Experience
+Artificial Intelligence
+Management
+AI
+Technology
+Leadership
+Networks
+Operations
+Iot
+Agile
+Software
+Developer
+
+https://www.accenture.com/in-en/travel-index
+Architecture
+Leadership
+Technology
+Organization
+Iot
+Agile
+Tools
+Operations
+
+https://www.accenture.com/in-en/utilities-index
+AI
+Management
+Security
+Leadership
+Technology
+Business Intelligence
+Networks
+Blockchain
+Design
+cybersecurity
+Support
+Organization
+Analytics
+Flexibility
+Operations
+
+https://www.accenture.com/in-en/company-corporate-citizenship
+Support
+Analytics
+Technology
+Development
+Code
+Operations
+
+https://www.accenture.com/in-en/company-diversity
+Organization
+
+https://www.accenture.com/in-en/company-leadership
+Communication
+Leadership
+Technology
+Operations
+
+https://investor.accenture.com/
+Technology
+Operations
+Code
+
+https://newsroom.accenture.com/index.cfm
+AI
+Communication
+Security
+Applications
+Analytics
+Development
+Operations
+
+https://www.accenture.com/in-en/strategy-index
+Programming
+Development
+Design
+Organization
+Analytics
+Methodology
+API
+AI
+Security
+Supply Chain
+Blockchain
+Networks
+Servers
+Support
+APIs
+Communication
+Artificial Intelligence
+Big Data
+Data Analytics
+Data Strategy
+Flexibility
+Management
+Technology
+Agile
+Operations
+
+https://www.accenture.com/in-en/careers/work-we-do-consulting
+Communication
+Management
+Security
+Technology
+Emerging Technologies
+Design
+Organization
+
+https://www.accenture.com/in-en/technology-consulting-index
+Communication
+Artificial Intelligence
+Design
+Development
+Computer
+Analytics
+Machine Learning
+Architecture
+AI
+Management
+Security
+Leadership
+Technology
+Emerging Technologies
+Blockchain
+Implementation
+Agile
+Software
+
+https://www.accenture.com/in-en/security-index
+Management
+Security
+Leadership
+Internet
+cybersecurity
+Internet Of Things
+Support
+Organization
+Applications
+Analytics
+Operations
+
+https://www.accenture.com/in-en/service-blockchain-financial-services
+Database
+Communication
+Development
+Design
+Organization
+Applications
+Linux
+Coding
+Architecture
+AI
+Messaging
+Security
+Management
+Leadership
+Technology
+Supply Chain
+Blockchain
+Internet
+Emerging Technologies
+Training
+Implementation
+Support
+Software
+Iot
+Tools
+Operations
+
+https://www.accenture.com/in-en/service-cfo-enterprise-value
+Communication
+Management
+Architecture
+Leadership
+Technology
+Supply Chain
+Design
+Code
+Organization
+Analytics
+Agile
+Tools
+Operations
+
+https://www.accenture.com/in-en/service-customers-channels
+Communication
+Architecture
+Security
+Technology
+Supply Chain
+Design
+Development
+Code
+Organization
+Analytics
+Agile
+Operations
+
+https://www.accenture.com/in-en/service-supply-chain-operations
+AI
+Artificial Intelligence
+Architecture
+Technology
+Supply Chain
+Blockchain
+Design
+Code
+Organization
+Analytics
+Agile
+Machine Learning
+Flexibility
+Operations
+
+https://www.accenture.com/in-en/service-talent-organization
+AI
+Communication
+Architecture
+Leadership
+Technology
+Supply Chain
+Blockchain
+Design
+Organization
+Analytics
+Agile
+Tools
+Operations
+
+https://www.accenture.com/in-en/digital-index
+AI
+Architecture
+Leadership
+Technology
+Design
+Analytics
+Iot
+Developer
+Operations
+
+https://www.accenture.com/in-en/applied-intelligence-index
+Artificial Intelligence
+Business Analytics
+Design
+Big Data
+Applications
+Analytics
+Problem Solving
+Machine Learning
+AI
+Leadership
+Technology
+Data Science
+Support
+Iot
+Implementation
+
+https://www.accenture.com/in-en/interactive-index
+Artificial Intelligence
+Management
+Leadership
+Technology
+Design
+Agile
+Product Design
+Developer
+
+https://www.accenture.com/in-en/service-industry-x0
+Communication
+Development
+Design
+Amazon Web Services
+Big Data
+Architecture
+AI
+Management
+Security
+Leadership
+Technology
+Internet
+Blockchain
+Internet Of Things
+Implementation
+Support
+Agile
+Software
+Operations
+
+https://www.accenture.com/in-en/technology-index
+Artificial Intelligence
+Teamwork
+Design
+Development
+Application Development
+Testing
+Organization
+Applications
+Analytics
+Architecture
+AI
+Management
+Security
+Technology
+Blockchain
+Agile
+Software
+
+https://www.accenture.com/in-en/accenture-technology-labs-index
+Database
+Communication
+Artificial Intelligence
+Development
+Operations
+Code
+Computer
+Organization
+Information Systems
+Analytics
+Machine Learning
+Architecture
+AI
+Management
+Security
+Leadership
+Technology
+Emerging Technologies
+Internet
+Blockchain
+Hardware
+cybersecurity
+Software Engineering
+Business Process Modeling
+Internet Of Things
+Support
+Iot
+Virtualization
+Agile
+Software
+Deep Learning
+
+https://www.accenture.com/in-en/applications-index
+AI
+Management
+Artificial Intelligence
+Technology
+RPA
+Design
+Testing
+Applications
+Analytics
+Agile
+SaaS
+Architecture
+Robotic Process Automation
+
+https://www.accenture.com/in-en/cloud-index
+Cloud Services
+Architecture
+Leadership
+Technology
+Management
+Security
+Design
+SaaS
+Organization
+Software
+Applications
+Analytics
+Implementation
+Operations
+
+https://www.accenture.com/in-en/service-technology-microsoft-accenture-alliance-solutions-overview
+Communication
+Security
+Technology
+Design
+cybersecurity
+Installation
+Support
+Microsoft Office
+Applications
+Analytics
+Implementation
+
+https://www.accenture.com/in-en/oracle-index
+Agile Development
+Reporting
+Artificial Intelligence
+Development
+Design
+Organization
+Analytics
+AI
+Management
+Technology
+Blockchain
+Support
+Iot
+Agile
+Implementation
+Operations
+Robotic Process Automation
+
+https://www.accenture.com/in-en/sap-index
+Management
+Teamwork
+Architecture
+Technology
+Business Intelligence
+Supply Chain
+Development
+Implementation
+Support
+Organization
+Applications
+Analytics
+Agile
+Software
+Operations
+
+https://www.accenture.com/in-en/company-alliance-salesforce
+Communication
+Management
+Artificial Intelligence
+AI
+Technology
+Implementation
+
+https://www.accenture.com/in-en/business-operations-index
+AI
+Artificial Intelligence
+Technology
+Supply Chain
+Development
+Design
+Internet
+Blockchain
+Organization
+Analytics
+Implementation
+Operations
+
+https://www.accenture.com/in-en/business-operations-index
+AI
+Artificial Intelligence
+Technology
+Supply Chain
+Development
+Design
+Internet
+Blockchain
+Organization
+Analytics
+Implementation
+Operations
+
+https://www.accenture.com/in-en/cloud-migration-services
+Communication
+Management
+Leadership
+Technology
+Design
+Amazon Web Services
+Applications
+Analytics
+Agile
+Tools
+Operations
+
+https://www.accenture.com/in-en/careers/jobsearch
+Applications
+Technology
+Networks
+Support
+Organization
+
+https://www.accenture.com/in-en/careers/find-your-fit-experienced
+Database
+Security
+Emerging Technologies
+Technology
+cybersecurity
+Organization
+Analytics
+Operations
+
+https://www.accenture.com/in-en/careers/students-graduates
+Communication
+Development
+Design
+Testing
+Organization
+Presentation
+Analytics
+Security
+Leadership
+Emerging Technologies
+Technology
+cybersecurity
+Training
+Support
+Implementation
+Operations
+
+https://www.accenture.com/in-en/careers/work-we-do-consulting
+Communication
+Management
+Security
+Technology
+Emerging Technologies
+Design
+Organization
+
+https://www.accenture.com/in-en/careers/work-we-do-digital
+AI
+Artificial Intelligence
+Leadership
+Technology
+Internet
+Design
+Development
+Data Science
+Internet Of Things
+Training
+Big Data
+Support
+Organization
+Analytics
+Flexibility
+
+https://www.accenture.com/in-en/careers/work-we-do-operations
+Applications
+Technology
+Operations
+
+https://www.accenture.com/in-en/careers/security
+AI
+Security
+Technology
+Internet
+Networks
+Training
+Support
+Organization
+Analytics
+
+https://www.accenture.com/in-en/careers/work-we-do-strategy
+AI
+Management
+Security
+Technology
+Supply Chain
+Internet
+Organization
+IT Security
+Operations
+
+https://www.accenture.com/in-en/careers/work-we-do-technology
+Artificial Intelligence
+Design
+Development
+Testing
+Applications
+Analytics
+AI
+Management
+Leadership
+Technology
+Emerging Technologies
+Supply Chain
+Iot
+Agile
+Implementation
+AWS
+
+https://www.accenture.com/in-en/careers/work-we-do-corporate-functions
+Communication
+Management
+Security
+Leadership
+Technology
+Reporting
+Data Analytics
+Organization
+Support
+Analytics
+Agile
+Tools
+Flexibility
+Operations

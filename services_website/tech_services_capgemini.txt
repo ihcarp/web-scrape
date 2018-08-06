@@ -1,0 +1,407 @@
+https://www.capgemini.com/services/
+Application Development
+Testing
+Supply Chain
+Organization
+Applications
+Operations
+Development
+Security
+Technology
+Support
+cybersecurity
+
+https://www.capgemini.com/service/transformation-innovation/
+Tools
+Support
+Design
+Organization
+Management
+
+https://www.capgemini.com/service/transformation-innovation/applied-innovation-exchange/
+Networks
+Testing
+AI
+Organization
+Networking
+Technology
+Design
+
+https://www.capgemini-consulting.com/finance-transformation
+Leadership
+Tools
+Technology
+Organization
+Business Intelligence
+Operations
+Management
+
+https://www.capgemini-consulting.com/supply-chain-management/digital-supply-chain-transformation
+Code
+Supply Chain
+Implementation
+Design
+Communication
+Management
+Development
+
+https://www.capgemini.com/consulting/service/people-transformation/
+Organization
+Management
+Design
+
+https://www.capgemini-consulting.com/technology-transformation
+Logical Thinking
+Support
+Design
+Organization
+Operations
+
+https://www.capgemini-consulting.com/digital-strategy-transformation
+Leadership
+Tools
+Implementation
+Design
+Organization
+Management
+Development
+
+https://www.capgemini.com/service/digital-services/
+Networks
+Organization
+Operations
+Iot
+Design
+Internet
+Internet Of Things
+Analytics
+
+https://www.capgemini-consulting.com/digital-strategy-transformation
+Leadership
+Tools
+Implementation
+Design
+Organization
+Management
+Development
+
+https://www.capgemini.com/service/digital-services/digital-manufacturing/
+cybersecurity
+Testing
+Operations
+Management
+Security
+Configuration
+Technology
+Iot
+Design
+Internet
+Internet Of Things
+Big Data
+Configuration Management
+
+https://www.capgemini.com/service/digital-services/digital-customer-experience/
+Support
+Management
+Flexibility
+
+https://www.capgemini.com/service/digital-services/insights-data/
+Code
+Agile
+Artificial Intelligence
+Data Science
+AI
+Organization
+Storage
+Applications
+Operations
+Management
+Data Storage
+Business Analytics
+Analytics
+Big Data
+
+https://www.capgemini.com/service/digital-services/engineering-services/
+Storage
+Software
+Development
+Product Support
+Iot
+Design
+Internet Of Things
+AI
+Security
+Technology
+Support
+Internet
+cybersecurity
+Product Development
+
+https://www.capgemini.com/service/cloud-services/
+AWS
+Implementation
+Amazon Web Services
+Communication
+Applications
+Operations
+Development
+Security
+Support
+PaaS
+
+https://www.capgemini.com/service/cloud-services/cloud-strategy/
+Code
+Testing
+Agile
+AI
+Organization
+Cloud Services
+Development
+
+https://www.capgemini.com/service/cloud-services/workloads-assessment/
+Tools
+Code
+AI
+Applications
+Software
+Architecture
+Support
+PaaS
+Design
+SaaS
+IaaS
+
+https://www.capgemini.com/service/cloud-services/migrating-workloads-to-the-cloud/
+Code
+Agile
+AI
+Organization
+Amazon Web Services
+Applications
+Development
+Flexibility
+Security
+Methodology
+Architecture
+Cloud Services
+
+https://www.capgemini.com/service/cloud-services/sap-migrations-to-the-aws-cloud/
+Code
+AWS
+Implementation
+AI
+Amazon Web Services
+Development
+Flexibility
+Design
+
+https://www.capgemini.com/service/cloud-services/implementing-software-as-a-service-saas/
+Code
+Agile
+Implementation
+software-as-a-service
+AI
+Organization
+Applications
+Software
+Hardware
+Technology
+SaaS
+
+https://www.capgemini.com/service/cloud-services/cloud-native-applications-paas/
+Code
+Testing
+Agile
+platform-as-a-service
+AI
+Organization
+Amazon Web Services
+Applications
+Development
+Continuous Deployment
+Support
+PaaS
+Design
+
+https://www.capgemini.com/service/cloud-services/capgemini-enterprise-ipaas/
+Code
+Agile
+AI
+Organization
+APIs
+Applications
+Software
+Flexibility
+Support
+API
+PaaS
+SaaS
+
+https://www.capgemini.com/service/cloud-services/dedicated-private-cloud/
+Servers
+Code
+AI
+Applications
+Operations
+Management
+Flexibility
+Security
+Technical Support
+Support
+Design
+cybersecurity
+IaaS
+Virtualization
+
+https://www.capgemini.com/service/cloud-services/capgemini-hosted-multi-tenant-private-cloud/
+Code
+Agile
+AI
+Applications
+Flexibility
+Security
+Hardware
+Technical Support
+Support
+Technology
+Cloud Services
+Analytics
+Big Data
+
+https://www.capgemini.com/service/cloud-services/public-cloud-managed-services/
+Cloud Platforms
+AWS
+Code
+AI
+Organization
+Amazon Web Services
+Applications
+Flexibility
+Security
+Technical Support
+Support
+Technology
+Design
+Cloud Services
+IaaS
+
+https://www.capgemini.com/service/technology-operations/
+Testing
+Technology
+Agile
+Design
+
+https://www.capgemini.com/service/technology-operations/infrastructure-services/
+Technology
+Agile
+Robotic Process Automation
+Software
+Flexibility
+
+https://www.capgemini.com/service/technology-operations/admnext/
+Application Development
+Applications
+Operations
+Management
+Development
+
+https://www.capgemini.com/service/technology-operations/testing-services/
+Testing
+Agile
+
+https://www.capgemini.com/service/automation-drive/
+Tools
+Agile
+Artificial Intelligence
+AI
+Organization
+Operations
+Database
+Methodology
+Technology
+Design
+User Experience
+
+https://www.capgemini.com/service/business-services/
+Supply Chain
+Organization
+Business Analytics
+Operations
+Methodology
+Technology
+Design
+Analytics
+Reporting
+
+https://www.capgemini.com/service/business-services/optimize-your-business-and-it-operations/
+Supply Chain
+Artificial Intelligence
+Agile
+AI
+Organization
+Operations
+Management
+Architecture
+Flexibility
+Technology
+Support
+Design
+
+https://www.capgemini.com/service/business-services/transform-your-finance-operations/
+Operations
+Support
+Management
+
+https://www.capgemini.com/service/business-services/optimize-your-supply-chain-and-vendor-performance/
+Technology
+Supply Chain
+Operations
+Management
+
+https://www.capgemini.com/service/business-services/retain-and-engage-employees/
+Operations
+
+https://www.capgemini.com/service/business-services/gain-more-insights-from-business-analytics/
+Analytics
+Metrics
+
+https://www.capgemini.com/service/business-services/enrich-your-customer-interactions/
+Data Analysis
+
+https://www.capgemini.com/service/business-services/better-manage-risk-and-compliance/
+Support
+Management
+
+https://www.capgemini.com/service/business-services/business-process-as-a-service-bpaas/
+Applications
+PaaS
+
+https://www.capgemini.com/service/new-ways-to-control-secure-your-assets/
+Organization
+Management
+Security
+Leadership
+Technology
+Design
+cybersecurity
+
+https://www.capgemini.com/service/new-ways-to-control-secure-your-assets/cybersecurity-services/
+Security
+cybersecurity
+Organization
+
+https://www.capgemini.com/service/new-ways-to-control-secure-your-assets/risk-compliance/
+Management
+
+https://www.capgemini.com/service/gdpr/
+Agile
+Implementation
+Organization
+Security
+Methodology
+Leadership
+Design
+
+https://www.capgemini.com/services/all/
+Operations
+Supply Chain

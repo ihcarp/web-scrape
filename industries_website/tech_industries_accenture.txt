@@ -1,0 +1,214 @@
+https://www.accenture.com/in-en/auto-industrial-index
+Communication
+Management
+Technology
+Internet
+Development
+Internet Of Things
+Support
+Iot
+Software
+
+https://www.accenture.com/in-en/banking-index
+Development
+Design
+Organization
+API
+AI
+Management
+Security
+Technology
+Networks
+Blockchain
+APIs
+Operations
+
+https://www.accenture.com/in-en/capital-markets-index
+Management
+Security
+Technology
+Blockchain
+Design
+cybersecurity
+Organization
+Content Management
+API
+Robotic Process Automation
+
+https://www.accenture.com/in-en/chemicals-index
+AI
+Artificial Intelligence
+Security
+Architecture
+Technology
+Communication
+Supply Chain
+Blockchain
+cybersecurity
+Organization
+Applications
+Implementation
+Operations
+
+https://www.accenture.com/in-en/communications-media-index
+Communication
+Security
+Leadership
+Networks
+Internet
+Blockchain
+Design
+Analytics
+Iot
+Operations
+
+https://www.accenture.com/in-en/consumer-goods-and-services-index
+Blockchain
+Technology
+Support
+Design
+
+https://www.accenture.com/in-en/energy-index
+Management
+Technology
+Emerging Technologies
+Supply Chain
+Blockchain
+Operations
+
+https://www.accenture.com/in-en/health-industry-index
+Management
+Technology
+Internet
+Networks
+Internet Of Things
+Organization
+Tools
+Operations
+
+https://www.accenture.com/in-en/electronics-and-high-tech-index
+Communication
+Design
+AI
+Leadership
+Technology
+Supply Chain
+Blockchain
+Internet
+Internet Of Things
+Training
+Iot
+Software
+Operations
+
+https://www.accenture.com/in-en/insurance-index
+AI
+Management
+Artificial Intelligence
+Leadership
+Technology
+Internet
+Development
+Design
+Blockchain
+Internet Of Things
+Implementation
+Support
+Organization
+Software
+Operations
+
+https://www.accenture.com/in-en/lifesciences-index
+AI
+Communication
+Leadership
+Technology
+Supply Chain
+Blockchain
+Development
+Organization
+Iot
+Operations
+
+https://www.accenture.com/in-en/natural-resources-index
+Artificial Intelligence
+Reporting
+Organization
+Applications
+Analytics
+Architecture
+AI
+Security
+Technology
+Supply Chain
+Internet
+Blockchain
+cybersecurity
+Internet Of Things
+Operations
+
+https://www.accenture.com/in-en/ps-industry-index
+User Experience
+Metrics
+Development
+Design
+Operations
+Organization
+Analytics
+Management
+Security
+Leadership
+Technology
+Support
+Agile
+Data Analytics
+
+https://www.accenture.com/in-en/retail-index
+AI
+Artificial Intelligence
+Analytics
+Leadership
+Technology
+Supply Chain
+Tools
+
+https://www.accenture.com/in-en/software-and-platforms-index
+User Experience
+Artificial Intelligence
+Management
+AI
+Technology
+Leadership
+Networks
+Operations
+Iot
+Agile
+Software
+Developer
+
+https://www.accenture.com/in-en/travel-index
+Architecture
+Leadership
+Technology
+Organization
+Iot
+Agile
+Tools
+Operations
+
+https://www.accenture.com/in-en/utilities-index
+AI
+Management
+Security
+Leadership
+Technology
+Business Intelligence
+Networks
+Blockchain
+Design
+cybersecurity
+Support
+Organization
+Analytics
+Flexibility
+Operations

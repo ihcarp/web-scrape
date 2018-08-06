@@ -1,0 +1,55 @@
+Common technologies between ggk and capgemini:
+
+Internet
+Management
+Artificial Intelligence
+Testing
+Operations
+API
+Supply Chain
+Iot
+Implementation
+Applications
+Content Management
+AI
+Technology
+Communication
+cybersecurity
+Security
+Design
+Analytics
+Programming
+APIs
+Organization
+Support
+Agile
+
+
+Technologies on capgemini but not ggk:
+Flexibility
+Leadership
+Emerging Technologies
+Internet Of Things
+
+
+Technologies on ggk but not capgemini:
+Business Intelligence
+Tablets
+Development
+Application Development
+Networks
+Software
+Product Development
+Messaging
+Reporting
+Mobile Applications
+Big Data
+Data Analytics
+Business Analytics
+Information Systems
+Data Science
+Web Analytics
+User Experience
+Code
+IT Solutions
+Cloud Services

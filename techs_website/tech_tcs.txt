@@ -1,0 +1,265 @@
+home:
+
+Internet Of Things
+Security
+Operations
+Big Data
+API
+Machine Learning
+Management
+Technology
+Communication
+Internet
+Robotic Process Automation
+Artificial Intelligence
+Development
+Supply Chain
+Blockchain
+Iot
+
+https://www.tcs.com/banking-financial-services
+Information Systems
+Reporting
+Big Data
+Analytics
+Blockchain
+Technology
+
+https://www.tcs.com/communication-media-technology
+Hardware
+Cloud Applications
+Operations
+Design
+Product Development
+Management
+Analytics
+Applications
+Networking
+Development
+Software
+Agile
+Supply Chain
+Organization
+
+https://www.tcs.com/insurance
+Blockchain
+Technology
+
+https://www.tcs.com/manufacturing
+Operations
+Supply Chain
+Configuration Management
+Configuration
+Management
+Analytics
+
+https://www.tcs.com/retail
+Iot
+Support
+Management
+Analytics
+Software
+Data Analytics
+Supply Chain
+
+https://www.tcs.com/hitech
+Software
+Blockchain
+Technology
+
+https://www.tcs.com/consumer-goods-and-distribution
+Operations
+Management
+Business Analytics
+Supply Chain
+Analytics
+
+https://www.tcs.com/energy-resources-utilities
+Development
+Design
+Management
+
+https://www.tcs.com/life-sciences-healthcare
+AI
+Organization
+Communication
+
+https://www.tcs.com/public-services
+Security
+
+https://www.tcs.com/travel-transportation-hospitality
+Reporting
+Iot
+Operations
+Supply Chain
+Management
+Analytics
+
+https://www.tcs.com/quality-engineering
+Iot
+Agile
+Testing
+User Experience
+Internet
+
+https://www.tcs.com/business-operations
+Communication
+Operations
+Iot
+PaaS
+Design
+Analytics
+Tools
+Technology
+Implementation
+
+https://www.tcs.com/consulting-systems-integration
+Cloud Applications
+Machine Learning
+RPA
+Management
+Analytics
+Technology
+Applications
+Methodology
+AI
+Implementation
+
+https://www.tcs.com/engineering
+Operations
+Iot
+Networks
+Code
+Product Development
+Management
+Development
+Software
+
+https://www.tcs.com/technology-operations
+Operations
+Database
+Support
+Software Development
+Management
+Development
+Database Administration
+Software
+User Experience
+
+https://www.tcs.com/interactive
+Design
+Deep Learning
+
+https://www.tcs.com/artificial-intelligence
+Artificial Intelligence
+Computer
+Deep Learning
+Data Analytics
+AI
+Big Data
+Analytics
+
+https://www.tcs.com/big-data
+Big Data
+Code
+Analytics
+Applications
+
+https://www.tcs.com/cloud-technologies
+Security
+Cloud Services
+API
+
+https://www.tcs.com/cyber-security
+Implementation
+Management
+Security
+
+https://www.tcs.com/internet-of-things
+Iot
+platform-as-a-service
+Internet Of Things
+Support
+Management
+Analytics
+Data Analytics
+AI
+Blockchain
+Internet
+
+https://www.tcs.com/tcs-chroma
+Management
+
+https://www.digitate.com
+
+https://www.tcsion.com/dotcom/TCSSMB/
+
+https://www.tcs.com/tap-procure-to-pay
+
+https://mastercraft.tcs.com/
+
+https://www.tcs.com/customer-intelligence-and-insights-product
+Communication
+
+https://www.tcs.com/intelligent-urban-exchange
+Software
+Management
+Analytics
+
+https://www.tcs.com/optumera-digital-merchandising-suite
+
+http://sites.tcs.com/tcsbancs
+
+https://www.jile.io/
+
+https://www.tcs.com/advanced-drug-development
+Development
+Management
+
+https://www.tcs.com/connected-intelligence-platform
+
+https://www.tcs.com/enterprise-resource-planning
+
+https://www.tcs.com/hobs
+Agile
+
+https://www.tcs.com/about-us
+Operations
+Business Intelligence
+Supply Chain
+Organization
+Leadership
+Analytics
+Technology
+
+https://www.tcs.com/blogs
+
+https://www.tcs.com/research-and-innovation
+Iot
+Applications
+Emerging Technologies
+AI
+Management
+Technology
+
+https://www.tcs.com/corporate-sustainability
+Leadership
+Technology
+
+https://www.tcs.com/sports-sponsorships
+Development
+Technology
+
+https://www.tcs.com/diversity-and-inclusion
+
+https://www.tcs.com/alliances-partnerships
+Teamwork
+
+https://www.tcs.com/investor-relations
+Leadership
+
+http://sites.tcs.com/insights/perspectives/
+
+https://www.tcs.com/newsroom
+
+https://www.tcs.com/brexit

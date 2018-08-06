@@ -1,0 +1,54 @@
+Common technologies between ggk and valuelabs:
+
+Operations
+Development
+User Experience
+Security
+Support
+Software
+Networks
+Testing
+Supply Chain
+Technology
+Internet
+Implementation
+Code
+Communication
+Big Data
+Organization
+Applications
+Analytics
+Design
+Application Development
+Management
+
+
+Technologies on valuelabs but not ggk:
+Analytical
+Architecture
+Emerging Technologies
+
+
+Technologies on ggk but not valuelabs:
+Reporting
+Data Analytics
+Messaging
+Programming
+IT Solutions
+Business Analytics
+cybersecurity
+APIs
+Web Analytics
+Content Management
+Product Development
+Artificial Intelligence
+Mobile Applications
+Iot
+Tablets
+Agile
+Business Intelligence
+Information Systems
+Data Science
+Cloud Services
+API
+AI

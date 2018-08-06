@@ -1,0 +1,57 @@
+Common technologies between ggk and tcs:
+
+Software
+Applications
+Iot
+Design
+Communication
+Support
+Information Systems
+Operations
+Data Analytics
+Supply Chain
+Organization
+Big Data
+AI
+Business Analytics
+Technology
+Analytics
+Security
+Product Development
+Agile
+Development
+Reporting
+Management
+
+
+Technologies on tcs but not ggk:
+Configuration
+Blockchain
+Configuration Management
+Networking
+Cloud Applications
+Hardware
+
+
+Technologies on ggk but not tcs:
+Cloud Services
+APIs
+Programming
+Networks
+Data Science
+Implementation
+Application Development
+Code
+Testing
+cybersecurity
+Mobile Applications
+Messaging
+Web Analytics
+API
+Tablets
+User Experience
+Artificial Intelligence
+IT Solutions
+Content Management
+Internet
+Business Intelligence
