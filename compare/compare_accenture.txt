@@ -1,0 +1,99 @@
+Common technologies between ggk and accenture:
+
+Applications
+Supply Chain
+Application Development
+Operations
+Machine Learning
+cybersecurity
+Internet
+Artificial Intelligence
+Data Analytics
+Information Systems
+Development
+Data Science
+Servers
+Business Intelligence
+Tools
+User Experience
+Networks
+Support
+AI
+Technology
+Virtualization
+Cloud Services
+Code
+Iot
+Database
+Programming
+Software
+Messaging
+Management
+RPA
+Reporting
+Architecture
+Security
+Communication
+Analytics
+APIs
+Implementation
+Robotic Process Automation
+Business Analytics
+Organization
+Hardware
+Design
+Methodology
+Blockchain
+Testing
+Computer
+Flexibility
+Agile
+Content Management
+API
+Big Data
+
+
+Technologies on accenture but not ggk:
+Microsoft Office
+Amazon Web Services
+Presentation
+Agile Development
+Installation
+Leadership
+Metrics
+Problem Solving
+SaaS
+Internet Of Things
+Teamwork
+AWS
+Cognitive Robotics
+Coding
+Emerging Technologies
+Software Engineering
+Training
+Linux
+IT Security
+Developer
+Deep Learning
+Data Strategy
+Business Process Modeling
+Product Design
+
+
+Technologies on ggk but not accenture:
+Product Development
+Usability
+Mobile Applications
+Data Modeling
+Configuration Management
+Storage
+Tablets
+Web Analytics
+Configuration
+IT Solutions
+Software Development
+Project Management
+Customer Support
+Continuous Integration
+Continuous Deployment
+Web Applications

@@ -1,84 +1,94 @@
 Common technologies between ggk and capgemini:
 
-Data Science
+Reporting
+Robotic Process Automation
+Analytics
+APIs
+Artificial Intelligence
+Hardware
+Servers
+Iot
+Continuous Deployment
+Configuration Management
+Configuration
+Communication
+Technology
+Design
+Virtualization
+Business Analytics
+Internet
+Flexibility
+Content Management
+Architecture
 Development
 Agile
-Methodology
-User Experience
-Big Data
-API
-Testing
-Support
-Security
-AI
-Applications
-Reporting
 Storage
-Robotic Process Automation
-Iot
-Code
+Support
 Organization
-Implementation
-Application Development
-Hardware
-Continuous Deployment
-Tools
-APIs
-Design
-Servers
-Analytics
-Product Development
-Business Intelligence
 Software
-Management
-Technology
-Flexibility
+cybersecurity
+Code
 Database
-Virtualization
-Configuration Management
-Architecture
+Applications
+Management
+Security
+Data Science
+AI
+Product Development
+Supply Chain
+Testing
+Implementation
+API
+Methodology
 Operations
-Communication
-Configuration
+Big Data
+User Experience
+Programming
+Application Development
+Cloud Services
+Business Intelligence
+Networks
+Tools
 
 
 Technologies on capgemini but not ggk:
 Technical Support
-Networks
-Metrics
-Internet Of Things
-platform-as-a-service
-Data Storage
-AWS
-SaaS
-Data Analysis
-Leadership
-IaaS
 Logical Thinking
-Product Support
-Networking
-Cloud Services
-Supply Chain
-software-as-a-service
+Internet Of Things
+IaaS
 Amazon Web Services
-cybersecurity
-Internet
-Artificial Intelligence
+Data Analysis
 Cloud Platforms
+Leadership
+Product Support
+AWS
+Metrics
+Cloud Applications
+software-as-a-service
+platform-as-a-service
+Emerging Technologies
 PaaS
-Business Analytics
+SaaS
+Networking
+Data Storage
 
 
 Technologies on ggk but not capgemini:
-Customer Support
-Software Development
-Continuous Integration
-Mobile Applications
-Computer
 RPA
-Machine Learning
-Project Management
-Data Modeling
+Information Systems
+IT Solutions
+Continuous Integration
+Web Analytics
+Customer Support
+Data Analytics
 Usability
+Data Modeling
+Project Management
+Machine Learning
+Mobile Applications
+Messaging
+Blockchain
+Software Development
+Computer
 Web Applications
 Tablets

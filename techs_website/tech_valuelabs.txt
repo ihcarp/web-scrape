@@ -1,192 +1,252 @@
 home:
 
+Big Data
+Software
+Product Development
+Management
+Development
+Agile
+Iot
+Blockchain
+Analytics
+SaaS
+Testing
+Software Development
 
 https://www.valuelabs.com/
-Operations
-Testing
-Management
-Flexibility
-Analytics
-Blockchain
-Development
-Developer
-Software Development
-Technology
-SaaS
-Big Data
 Iot
-Agile
-Software
+Blockchain
 Communication
+Big Data
+Technology
+Developer
+Software
+Analytics
+Flexibility
 Product Development
+Management
+SaaS
+Testing
+Operations
+Agile
+Development
+Software Development
 
 https://www.valuelabs.com/digital-enablement/
-Data Science
-Analytics
-Business Intelligence
-Blockchain
-AI
-Technology
-Artificial Intelligence
-Code
-Applications
-Design
 Iot
-Data Analytics
+Blockchain
 Big Data
+Technology
+Applications
+Artificial Intelligence
+Data Analytics
+Analytics
+AI
+Business Intelligence
+Data Science
+Design
+Code
 
 https://www.valuelabs.com/digital-enablement/customer-experience/
-Code
+Iot
+Big Data
+Technology
 Design
 Analytics
-Big Data
-Iot
-Technology
+Code
 
 https://www.valuelabs.com/digital-enablement/data-insights/
-Data Science
-Analytics
-Business Intelligence
-Technology
-Code
 Big Data
+Technology
 Computer
+Analytics
 Software
+Business Intelligence
+Support
+Data Science
+Analytical
+Design
+Code
 
 https://www.valuelabs.com/digital-enablement/enterprise-architecture/
-Code
-Support
+Robotic Process Automation
 Architecture
+Support
 Technology
+Code
+Security
 
 https://www.valuelabs.com/digital-enablement/artificial-intelligence/
-Management
-AI
+Iot
+Big Data
 Architecture
-Cloud Services
 Technology
 Artificial Intelligence
-Code
 Applications
-Big Data
-Iot
+Analytics
+AI
+Management
+Cloud Services
+Code
 
 https://www.valuelabs.com/product-development/
-Operations
-Testing
-Support
-Development
 Technology
-Code
 Applications
-Design
-Agile
 Software
 Product Development
+Testing
+Development
+Support
+Agile
+Operations
+Design
+Code
 
 https://www.valuelabs.com/product-development/software-development/
-Development
 Software Development
-Code
+Tools
 Applications
-Design
-Agile
 Software
+Operations
+Development
+Agile
+Design
+Code
 
 https://www.valuelabs.com/product-development/quality-assurance/
-Testing
-Flexibility
-Analytics
 Machine Learning
-Code
 Applications
-Agile
+API
+Analytics
 Software
+Flexibility
+Testing
+Agile
+Design
+Code
 
 https://www.valuelabs.com/product-development/devops/
-Code
+Tools
+Software
+APIs
 Management
+Development
+Support
+Agile
+Code
+
+https://www.valuelabs.com/product-development/application-development/
+Technology
+Applications
+Software
+Development
+Support
+Code
+
+https://www.valuelabs.com/product-development/infrastructure-engineering-services/
+IT Support
+User Experience
+Communication
+Networks
+Flexibility
+Management
+Operations
+Support
+Code
+
+https://www.valuelabs.com/industries/
+Supply Chain
+Development
+Technology
+Applications
+Organization
+Software
+Code
+
+https://www.valuelabs.com/industries/banking-and-financial-services/
+Implementation
+Code
+Technology
+Testing
+Operations
+Support
+Architecture
+
+https://www.valuelabs.com/industries/insurance/
+Implementation
+Iot
+User Experience
+Big Data
+Project Management
+Technology
+Internet
+Analytics
+Data Analytics
+Management
+Testing
+Support
+Code
+Internet Of Things
+
+https://www.valuelabs.com/industries/healthcare-life-sciences/
+Implementation
+Technology
+Analytics
+Application Development
+Management
+Testing
+Development
+Code
+Information Systems
+
+https://www.valuelabs.com/industries/telecom/
+Communication
+User Experience
+Networks
+Technology
+Applications
+Application Development
+Development
+Analytical
+Design
+Mobile Applications
+Code
+
+https://www.valuelabs.com/industries/retail-and-consumer-goods/
+Iot
+Supply Chain
+Technology
+Internet
+Analytics
+Security
+Operations
+Code
+Data Intelligence
+
+https://www.valuelabs.com/industries/media/
+Training
+Big Data
+API
+Application Development
+Content Management
+Management
+Operations
 Agile
 Support
 Development
-
-https://www.valuelabs.com/product-development/application-development/
+Reporting
 Code
-Applications
-Software
-Support
-Development
-Technology
-
-https://www.valuelabs.com/product-development/infrastructure-engineering-services/
-Networks
-Management
-Operations
-Flexibility
-Support
-Code
-Communication
-IT Support
-
-https://www.valuelabs.com/industries/
-Code
-Applications
-Supply Chain
-Software
-Development
-Organization
-Technology
-
-https://www.valuelabs.com/industries/banking-and-financial-services/
-Code
-Testing
 Implementation
-Support
-Architecture
+Coding
 Technology
-
-https://www.valuelabs.com/industries/insurance/
-Code
-Management
-User Experience
-Support
-Technology
-
-https://www.valuelabs.com/industries/healthcare-life-sciences/
-Code
-Development
-Technology
-
-https://www.valuelabs.com/industries/telecom/
-Networks
-Technology
-Code
-User Experience
-Design
 Applications
-Communication
-Analytical
-
-https://www.valuelabs.com/industries/retail-and-consumer-goods/
-Operations
-Code
-Internet
+Database
 Analytics
-Supply Chain
-Security
-Technology
-
-https://www.valuelabs.com/industries/media/
-Operations
-Analytics
-Development
-Technology
-Code
-Big Data
-Application Development
 Emerging Technologies
 
 https://www.valuelabs.com/the-valuelabs-stack/
-Code
+Operations
 Technology
+Problem Solving
 Software
+Code

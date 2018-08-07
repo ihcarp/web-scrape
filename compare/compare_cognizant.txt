@@ -1,95 +1,102 @@
 Common technologies between ggk and cognizant:
 
-Methodology
-Machine Learning
-RPA
-Design
-APIs
-Data Science
-Database
-AI
-Communication
-Flexibility
-Servers
-Application Development
-Virtualization
-Code
-Web Applications
-Architecture
-Implementation
-Security
-Reporting
-Software Development
-Big Data
-Operations
-Agile
-Computer
-Software
-Organization
-Data Modeling
-Product Development
-Iot
-API
-Tools
-Usability
-Analytics
-Robotic Process Automation
-Testing
-Technology
 Mobile Applications
-Continuous Integration
-Applications
-Management
+Operations
+Supply Chain
+API
+Robotic Process Automation
+Artificial Intelligence
+Usability
+Architecture
+Software Development
+Servers
+Programming
+Data Science
+Testing
+Big Data
+IT Solutions
+Methodology
 Development
-Storage
-Support
+Machine Learning
+cybersecurity
 Customer Support
+Technology
+APIs
+Configuration
+Iot
+Tools
+Analytics
+Business Analytics
+Content Management
+Application Development
+Security
+Hardware
+Networks
+Applications
+Agile
+Design
+Reporting
+Computer
+Implementation
+Database
+Communication
+Software
+Data Analytics
+Blockchain
+Management
+Web Applications
+Storage
+Internet
 User Experience
+Product Development
+Data Modeling
+Support
+Continuous Integration
+Code
+AI
+RPA
+Flexibility
+Information Systems
+Cloud Services
+Virtualization
+Organization
 
 
 Technologies on cognizant but not ggk:
-Content Management
-Amazon Web Services
-SaaS
-Internet Of Things
-Product Management
-Programming
-Content Strategy
-Artificial Intelligence
-Agile Development
-AWS
-Networks
-Cloud Platforms
-Data Lake
-Data Analytics
-Business Analytics
-Teamwork
 Information Architecture
-Cloud Services
-Internet
+Software Engineering
+Training
+SaaS
+Amazon Web Services
 Analytical
+Agile Development
+Troubleshooting
+Help Desk
+IT Security
 Coding
+Internet Of Things
+Repairs
+Metrics
+Cloud Platforms
+Product Management
+Content Strategy
+User Interface
+Leadership
+Motivation
 Product Design
 Developer
-IT Solutions
-Supply Chain
-Leadership
-Software Engineering
-Blockchain
+Teamwork
+AWS
 Data Mining
-Help Desk
-Information Systems
-Metrics
 PaaS
-cybersecurity
-IT Security
+Data Lake
 
 
 Technologies on ggk but not cognizant:
-Hardware
-Business Intelligence
+Messaging
 Configuration Management
-Configuration
-Project Management
+Business Intelligence
+Web Analytics
 Tablets
 Continuous Deployment
+Project Management

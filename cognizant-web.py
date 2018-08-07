@@ -91,13 +91,16 @@ def getTech(desc):
     return techs
 
 
-technos = set()
+technologies = set()
 
 menu_list = getContent("h2","class","entry-title",page_soup)
-technos.update(getTech(menu_list))
+technologies.update(getTech(menu_list))
 
 content = getContent("div","class","et_pb_text_inner",page_soup)
-technos.update(getTech(content))
+technologies.update(getTech(content))
+
+content = getContent("div","class","card-section",page_soup)
+technologies.update(getTech(content))
 
 menu_link_list = getLinkbytag("li","class","arrow-end")
 
@@ -105,7 +108,7 @@ for link in getLink("a","title","Learn More",page_soup):
     menu_link_list.append(link)
 
 print("home: \n")
-for technology in technos:
+for technology in technologies:
     print(technology)
 
 menu_items_list = set()
@@ -140,7 +143,7 @@ for link in menu_link_list:
 
 for link in menu_items_list:
 
-    techs =set()
+    technologies =set()
 
     urlClient = urlopen(link)
     print(link)
@@ -150,13 +153,13 @@ for link in menu_items_list:
     urlClient.close()
     
     content = getContent("div","class","media-object-section w100",pg2_soup)
-    techs.update(getTech(content))
+    technologies.update(getTech(content))
 
     content = getContent("div","class","small-12",pg2_soup)
-    techs.update(getTech(content))
+    technologies.update(getTech(content))
 
     content = getContent("div","class","column column-block flex-container",pg2_soup)
-    techs.update(getTech(content))
+    technologies.update(getTech(content))
 
-    for technology in techs:
+    for technology in technologies:
         print(technology)

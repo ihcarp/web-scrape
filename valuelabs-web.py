@@ -62,18 +62,24 @@ def getTech(desc):
     return techs
 
 
-technos = set()
+technologies = set()
 
 menu_list = getContent("h2","class","entry-title")
-technos.update(getTech(menu_list))
+technologies.update(getTech(menu_list))
 
-content = getContent("div","class","et_pb_text_inner")
-technos.update(getTech(content))
+content = getContent("div","class","col-md-12 text-left")
+technologies.update(getTech(content))
+
+content = getmenu_items("span")
+technologies.update(getTech(content))
+
+content = getContent("div","class","digital-info")
+technologies.update(getTech(content))
 
 menu_link_list = getLinkbytag("li","class","menu-item-type-post_type")
 
 print("home: \n")
-for technology in technos:
+for technology in technologies:
     print(technology)
     
 for link in menu_link_list:
@@ -90,6 +96,8 @@ for link in menu_link_list:
 
     content = getContent("div","class","et_pb_tab_content")
     technologies.update(getTech(content))
+
+    technologies.update(getTech(getContent("ul","class","bullets-list")))
 
     content_desc = getmenu_items("p")
     technologies.update(getTech(content_desc))
